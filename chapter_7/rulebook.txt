@@ -1,0 +1,20 @@
+<sentence> <particle> <compound-object> <verb> <particle> <subject>
+<object> dog
+<object> mom
+<object> boyfriend
+<object> panda
+<verb> pisses on
+<verb> eats
+<verb> loves
+<particle> the
+<particle> your
+<particle> my
+<compound-object> <adjective> <object>
+<adjective> immense
+<adjective> fat
+<adjective> angry
+<adjective> stupid
+<subject> fence
+<subject> flower pot
+<subject> painting
+<subject> garden
